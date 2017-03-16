@@ -1,0 +1,1 @@
+<*>: package(lambdasoup), package(cohttp.lwt)
